@@ -1,0 +1,45 @@
+/* line 104, cycx/*.png */
+.cycx-sprite, .cycx-icon-a, .cycx-icon-b, .cycx-icon-c, .cycx-icon-false, .cycx-icon-ok, .cycx-icon-site, .cycx-icon-type-food, .cycx-phone {
+  background-image: url('/images/cycx-s3ff9f9c127.png');
+  background-repeat: no-repeat;
+}
+
+/* line 84, C:/Ruby23/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.cycx-icon-a {
+  background-position: 0 0;
+}
+
+/* line 84, C:/Ruby23/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.cycx-icon-b {
+  background-position: 0 -20px;
+}
+
+/* line 84, C:/Ruby23/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.cycx-icon-c {
+  background-position: 0 -40px;
+}
+
+/* line 84, C:/Ruby23/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.cycx-icon-false {
+  background-position: 0 -60px;
+}
+
+/* line 84, C:/Ruby23/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.cycx-icon-ok {
+  background-position: 0 -80px;
+}
+
+/* line 84, C:/Ruby23/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.cycx-icon-site {
+  background-position: 0 -100px;
+}
+
+/* line 84, C:/Ruby23/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.cycx-icon-type-food {
+  background-position: 0 -120px;
+}
+
+/* line 84, C:/Ruby23/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.cycx-phone {
+  background-position: 0 -160px;
+}

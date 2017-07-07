@@ -1,0 +1,20 @@
+/* line 64, lhdj/*.png */
+.lhdj-sprite, .lhdj-icon-a-36, .lhdj-icon-b-36, .lhdj-icon-c-36 {
+  background-image: url('/images/lhdj-s8aa175a186.png');
+  background-repeat: no-repeat;
+}
+
+/* line 84, C:/Ruby23/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.lhdj-icon-a-36 {
+  background-position: 0 0;
+}
+
+/* line 84, C:/Ruby23/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.lhdj-icon-b-36 {
+  background-position: 0 -36px;
+}
+
+/* line 84, C:/Ruby23/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.lhdj-icon-c-36 {
+  background-position: 0 -72px;
+}

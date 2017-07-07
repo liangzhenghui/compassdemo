@@ -1,0 +1,55 @@
+/* line 120, ydinfo/*.png */
+.ydinfo-sprite, .ydinfo-arrow_down, .ydinfo-arrow_right, .ydinfo-certificate, .ydinfo-location, .ydinfo-ok, .ydinfo-phone, .ydinfo-ss, .ydinfo-warning, .ydinfo-whiteheart, .ydinfo-ydlogo {
+  background-image: url('/images/ydinfo-sf99d6c6ef6.png');
+  background-repeat: no-repeat;
+}
+
+/* line 84, C:/Ruby23/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.ydinfo-arrow_down {
+  background-position: 0 0;
+}
+
+/* line 84, C:/Ruby23/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.ydinfo-arrow_right {
+  background-position: 0 -20px;
+}
+
+/* line 84, C:/Ruby23/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.ydinfo-certificate {
+  background-position: 0 -40px;
+}
+
+/* line 84, C:/Ruby23/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.ydinfo-location {
+  background-position: 0 -60px;
+}
+
+/* line 84, C:/Ruby23/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.ydinfo-ok {
+  background-position: 0 -75px;
+}
+
+/* line 84, C:/Ruby23/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.ydinfo-phone {
+  background-position: 0 -93px;
+}
+
+/* line 84, C:/Ruby23/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.ydinfo-ss {
+  background-position: 0 -113px;
+}
+
+/* line 84, C:/Ruby23/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.ydinfo-warning {
+  background-position: 0 -133px;
+}
+
+/* line 84, C:/Ruby23/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.ydinfo-whiteheart {
+  background-position: 0 -151px;
+}
+
+/* line 84, C:/Ruby23/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.ydinfo-ydlogo {
+  background-position: 0 -169px;
+}

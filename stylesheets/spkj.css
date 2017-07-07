@@ -1,0 +1,45 @@
+/* line 104, spkj/*.png */
+.spkj-sprite, .spkj-ico-map, .spkj-icon-currentlocation, .spkj-icon-farmer, .spkj-icon-farmersmarket, .spkj-icon-list, .spkj-icon-location2, .spkj-icon-navigation, .spkj-icon-site {
+  background-image: url('/images/spkj-see7dc99d9d.png');
+  background-repeat: no-repeat;
+}
+
+/* line 84, C:/Ruby23/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.spkj-ico-map {
+  background-position: 0 0;
+}
+
+/* line 84, C:/Ruby23/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.spkj-icon-currentlocation {
+  background-position: 0 -20px;
+}
+
+/* line 84, C:/Ruby23/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.spkj-icon-farmer {
+  background-position: 0 -60px;
+}
+
+/* line 84, C:/Ruby23/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.spkj-icon-farmersmarket {
+  background-position: 0 -80px;
+}
+
+/* line 84, C:/Ruby23/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.spkj-icon-list {
+  background-position: 0 -120px;
+}
+
+/* line 84, C:/Ruby23/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.spkj-icon-location2 {
+  background-position: 0 -140px;
+}
+
+/* line 84, C:/Ruby23/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.spkj-icon-navigation {
+  background-position: 0 -160px;
+}
+
+/* line 84, C:/Ruby23/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.spkj-icon-site {
+  background-position: 0 -190px;
+}

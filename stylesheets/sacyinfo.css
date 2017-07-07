@@ -1,0 +1,65 @@
+/* line 136, sacyinfo/*.png */
+.sacyinfo-sprite, .sacyinfo-certificate, .sacyinfo-icon-a, .sacyinfo-icon-b, .sacyinfo-icon-c, .sacyinfo-level, .sacyinfo-location, .sacyinfo-logo, .sacyinfo-ok, .sacyinfo-phone, .sacyinfo-ss, .sacyinfo-warning, .sacyinfo-whiteheart {
+  background-image: url('/images/sacyinfo-sc127e3c9d9.png');
+  background-repeat: no-repeat;
+}
+
+/* line 84, C:/Ruby23/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.sacyinfo-certificate {
+  background-position: 0 0;
+}
+
+/* line 84, C:/Ruby23/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.sacyinfo-icon-a {
+  background-position: 0 -20px;
+}
+
+/* line 84, C:/Ruby23/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.sacyinfo-icon-b {
+  background-position: 0 -38px;
+}
+
+/* line 84, C:/Ruby23/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.sacyinfo-icon-c {
+  background-position: 0 -56px;
+}
+
+/* line 84, C:/Ruby23/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.sacyinfo-level {
+  background-position: 0 -74px;
+}
+
+/* line 84, C:/Ruby23/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.sacyinfo-location {
+  background-position: 0 -92px;
+}
+
+/* line 84, C:/Ruby23/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.sacyinfo-logo {
+  background-position: 0 -107px;
+}
+
+/* line 84, C:/Ruby23/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.sacyinfo-ok {
+  background-position: 0 -147px;
+}
+
+/* line 84, C:/Ruby23/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.sacyinfo-phone {
+  background-position: 0 -165px;
+}
+
+/* line 84, C:/Ruby23/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.sacyinfo-ss {
+  background-position: 0 -185px;
+}
+
+/* line 84, C:/Ruby23/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.sacyinfo-warning {
+  background-position: 0 -205px;
+}
+
+/* line 84, C:/Ruby23/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.sacyinfo-whiteheart {
+  background-position: 0 -223px;
+}

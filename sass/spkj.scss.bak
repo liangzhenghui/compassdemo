@@ -1,0 +1,3 @@
+@import "compass/utilities/sprites";
+@import "jdzy/*.png";
+@include all-spkj-sprites;

@@ -1,0 +1,30 @@
+/* line 80, sjcx/*.png */
+.sjcx-sprite, .sjcx-ico-dataquery1, .sjcx-ico-dataquery2, .sjcx-ico-dataquery3, .sjcx-ico-dataquery4, .sjcx-ico-dataquery5 {
+  background-image: url('/images/sjcx-s3d6d744392.png');
+  background-repeat: no-repeat;
+}
+
+/* line 84, C:/Ruby23/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.sjcx-ico-dataquery1 {
+  background-position: 0 0;
+}
+
+/* line 84, C:/Ruby23/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.sjcx-ico-dataquery2 {
+  background-position: 0 -72px;
+}
+
+/* line 84, C:/Ruby23/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.sjcx-ico-dataquery3 {
+  background-position: 0 -144px;
+}
+
+/* line 84, C:/Ruby23/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.sjcx-ico-dataquery4 {
+  background-position: 0 -216px;
+}
+
+/* line 84, C:/Ruby23/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.sjcx-ico-dataquery5 {
+  background-position: 0 -288px;
+}

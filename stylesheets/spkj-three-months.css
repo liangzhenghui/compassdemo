@@ -1,0 +1,25 @@
+/* line 72, spkj-three-months/*.png */
+.spkj-three-months-sprite, .spkj-three-months-ico-check, .spkj-three-months-ico-site, .spkj-three-months-ico-time, .spkj-three-months-ico-type-farmersmarket {
+  background-image: url('/images/spkj-three-months-s7be75eac70.png');
+  background-repeat: no-repeat;
+}
+
+/* line 84, C:/Ruby23/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.spkj-three-months-ico-check {
+  background-position: 0 0;
+}
+
+/* line 84, C:/Ruby23/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.spkj-three-months-ico-site {
+  background-position: 0 -20px;
+}
+
+/* line 84, C:/Ruby23/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.spkj-three-months-ico-time {
+  background-position: 0 -40px;
+}
+
+/* line 84, C:/Ruby23/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.spkj-three-months-ico-type-farmersmarket {
+  background-position: 0 -55px;
+}

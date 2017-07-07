@@ -1,0 +1,60 @@
+/* line 128, jdzy/*.png */
+.jdzy-sprite, .jdzy-ico-map, .jdzy-icon-currentlocation, .jdzy-icon-list, .jdzy-icon-navigation, .jdzy-icon-site, .jdzy-icon-type-pharmacy-2, .jdzy-location2, .jdzy-phone2, .jdzy-redheart, .jdzy-restaurant-6, .jdzy-restaurant-8 {
+  background-image: url('/images/jdzy-sc1576f50ce.png');
+  background-repeat: no-repeat;
+}
+
+/* line 84, C:/Ruby23/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.jdzy-ico-map {
+  background-position: 0 0;
+}
+
+/* line 84, C:/Ruby23/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.jdzy-icon-currentlocation {
+  background-position: 0 -20px;
+}
+
+/* line 84, C:/Ruby23/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.jdzy-icon-list {
+  background-position: 0 -60px;
+}
+
+/* line 84, C:/Ruby23/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.jdzy-icon-navigation {
+  background-position: 0 -80px;
+}
+
+/* line 84, C:/Ruby23/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.jdzy-icon-site {
+  background-position: 0 -110px;
+}
+
+/* line 84, C:/Ruby23/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.jdzy-icon-type-pharmacy-2 {
+  background-position: 0 -130px;
+}
+
+/* line 84, C:/Ruby23/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.jdzy-location2 {
+  background-position: 0 -170px;
+}
+
+/* line 84, C:/Ruby23/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.jdzy-phone2 {
+  background-position: 0 -190px;
+}
+
+/* line 84, C:/Ruby23/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.jdzy-redheart {
+  background-position: 0 -208px;
+}
+
+/* line 84, C:/Ruby23/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.jdzy-restaurant-6 {
+  background-position: 0 -228px;
+}
+
+/* line 84, C:/Ruby23/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.jdzy-restaurant-8 {
+  background-position: 0 -248px;
+}
